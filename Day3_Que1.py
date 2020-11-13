@@ -1,4 +1,4 @@
-# Name : Yogi Halagunaki
+#
 # Assignment No : 3(Que1)
 
 # Questions 1:
